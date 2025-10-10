@@ -1,5 +1,16 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=000000&center=true&vCenter=true&width=435&lines=Hi!+I'm+Beatriz+Yoshimi😄;Oi!+Eu+me+chamo+Beatriz+Yoshimi😄;こんにちは,+ベアトリス善志美です😄;)](https://git.io/typing-svg)
 
+Sou desenvolvedora IOT e estou cursando **ADS - Análise e Desenvolvimento de Sistemas** no IFPR - Campus Paranaguá.
+
+## 💼 Onde estou trabalhando
+
+<img src="https://incubadoraifpr.com.br/assets/logoIncubadora-SEcfdAej.png" alt="Incubadora de Negócios de Impacto" width="140px" style="border-radius: 8px;" align="left" />
+
+**Bolsista Dev IOT**\
+[Incubadora de Negócios de Impacto](https://incubadoraifpr.com.br/) - IFPR | Paranaguá - PR | 2024 - 2026\
+Espaço voltado ao desenvolvimento de soluções tecnológicas para negócios de impacto.<br>
+**Languages and Tools**: `C++`, `Laravel`, `PlatformIO`, `React`, `Scrum`
+
 <div>
 
   #### Languages
