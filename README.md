@@ -82,18 +82,23 @@ Espaço voltado ao desenvolvimento de soluções tecnológicas para negócios de
 </div>
 
 ---
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoshimidevz&show_icons=true&theme=github_dark&hide_border=true&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yoshimidevz&theme=github_dark&show_icons=true&hide_border=true"/>
+
+</div>
 
 ## 📫 Contato
 
 <div align="center">
-  <a href="https://www.youtube.com/@BeatrizYoshimiMendesYukizaki" target="_blank">
+  <a href="https://www.youtube.com/@yoshimidevz" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
   <a href="https://instagram.com/beatrizyoshimi" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://discord.gg/Rzadqfwn" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
   <a href="mailto:yoshimidev1@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
@@ -101,4 +106,10 @@ Espaço voltado ao desenvolvimento de soluções tecnológicas para negócios de
   <a href="https://www.linkedin.com/in/beatrizyoshimi/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <i>"Continuo aprendendo constantemente :)"</i>
 </div>
