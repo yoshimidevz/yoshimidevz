@@ -78,8 +78,13 @@ Espaço voltado ao desenvolvimento de soluções tecnológicas para negócios de
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=mauboru&theme=github-dark-blue&border_radius=5&border=0&locale=pt_BR&mode=weekly&hide_border=true" alt="GitHub Streak" /></a>
+  <a href="https://github.com/pranesh-2005/github-readme-stats-fast">
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=yoshimidevz&show_icons=true&theme=kacho_ga" alt="yoshimidevz's GitHub stats" />
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/streak/?username=yoshimidevz&show_icons=true&theme=kacho_ga" alt="yoshimidevz's GitHub stats" />
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yoshimidevz&layout=compact&show_icons=true&theme=kacho_ga" alt="yoshimidevz's GitHub stats" />
+    <!--<img src="https://github-readme-stats-fast.vercel.app/api/wakatime/?username=yoshimidevz&theme=tokyonight" alt="WakaTime" /> -->
+  </a>
+
 </div>
 
 ## 📫 Contato
