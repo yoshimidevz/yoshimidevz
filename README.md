@@ -11,6 +11,17 @@
 Sou **desenvolvedora Fullstack** 🚀, cursando **ADS - Análise e Desenvolvimento de Sistemas** no IFPR - Campus Paranaguá.
 
 ---
+## 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/pranesh-2005/github-readme-stats-fast">
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=yoshimidevz&show_icons=true&theme=kacho_ga" alt="yoshimidevz's GitHub stats" />
+    <!-- <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/streak/?username=yoshimidevz&show_icons=true&theme=kacho_ga" alt="yoshimidevz's GitHub stats" /> -->
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yoshimidevz&layout=compact&show_icons=true&theme=kacho_ga&hide=cmake,swift,html,css" alt="yoshimidevz's GitHub stats" />
+    <!--<img src="https://github-readme-stats-fast.vercel.app/api/wakatime/?username=yoshimidevz&theme=tokyonight" alt="WakaTime" /> -->
+  </a>
+
+</div>
 
 ## 💼 Onde estou trabalhando
 
@@ -75,17 +86,6 @@ Espaço voltado ao desenvolvimento de soluções tecnológicas para negócios de
 </div>
 
 ---
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/pranesh-2005/github-readme-stats-fast">
-    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=yoshimidevz&show_icons=true&theme=kacho_ga" alt="yoshimidevz's GitHub stats" />
-    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/streak/?username=yoshimidevz&show_icons=true&theme=kacho_ga" alt="yoshimidevz's GitHub stats" />
-    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yoshimidevz&layout=compact&show_icons=true&theme=kacho_ga" alt="yoshimidevz's GitHub stats" />
-    <!--<img src="https://github-readme-stats-fast.vercel.app/api/wakatime/?username=yoshimidevz&theme=tokyonight" alt="WakaTime" /> -->
-  </a>
-
-</div>
 
 ## 📫 Contato
 
