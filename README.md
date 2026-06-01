@@ -117,5 +117,5 @@ Espaço voltado ao desenvolvimento de soluções tecnológicas para negócios de
 <br/>
 
 <div align="center">
-  <i>"Continuo aprendendo constantemente :)"</i>
+  <i>"Continue aprendendo constantemente :)"</i>
 </div>
